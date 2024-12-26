@@ -1,6 +1,6 @@
 {
   "name": "@hyperlane-xyz/warp-ui-template",
-  "description": "A web app template for building Hyperlane Warp Route UIs",
+  "description": "NeoX Warp Bridge",
   "version": "7.1.0",
   "author": "J M Rossy",
   "dependencies": {
@@ -72,7 +72,7 @@
     "yaml": "^2.6.0",
     "yaml-loader": "^0.8.1"
   },
-  "homepage": "https://www.hyperlane.xyz",
+  "homepage": "https://www.warp.stable.xyz",
   "license": "Apache-2.0",
   "main": "dist/src/index.js",
   "packageManager": "yarn@4.5.0",
