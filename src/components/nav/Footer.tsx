@@ -1,4 +1,4 @@
-import { DiscordIcon, GithubIcon, TwitterIcon } from '@hyperlane-xyz/widgets';
+import { GithubIcon } from '@hyperlane-xyz/widgets';
 import Link from 'next/link';
 import { ReactNode } from 'react';
 import { links } from '../../consts/links';
